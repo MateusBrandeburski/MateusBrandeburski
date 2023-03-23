@@ -6,7 +6,7 @@
 - 💬 Contate-me no e-mail: mateus.brandeburski92@gmail.com  
 
 
-##  ⬇️  Projeto pessoal que estou desenvolvendo atualmente  ⬇️ 
+## ⬇️  Projeto pessoal que estou desenvolvendo atualmente  ⬇️ 
 
 <h1 align="center"> Sistema Web Completo </h1>
 
@@ -41,6 +41,7 @@ O projeto evoluiu de uma calaculadora que calculava a fórmula de pitágoras par
 <img src="https://user-images.githubusercontent.com/102932581/227376765-6a0efd01-b7cb-4fcb-98a0-b3a03673f18b.png" />
 </div>
 <h4 align="center"> ✅ Scraping totalmente POO em que você passa os elementos pelos métodos, sem precisar alterar todo código ✅ </h4>
+<h5 align="center"> Eu sei, podemos usar herança aqui. Mas vamos com calma, uma coisa de cada vez, né!? </h5>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/102932581/227376769-0506a1ff-8110-4406-a357-322904e8a87e.png" />
 </div>
