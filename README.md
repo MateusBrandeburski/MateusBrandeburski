@@ -6,7 +6,7 @@
 - 💬 Contate-me no e-mail: mateus.brandeburski92@gmail.com  
 
 
-##  ⬇️  Projeto pessoal que desenvolvo atualmente  ⬇️ 
+##  ⬇️  Projeto pessoal que estou desenvolvendo atualmente  ⬇️ 
 
 <h1 align="center"> Sistema Flask Completo </h1>
 
