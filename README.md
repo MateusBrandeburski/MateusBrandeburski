@@ -6,6 +6,52 @@
 - 💬 Contate-me no e-mail: mateus.brandeburski92@gmail.com  
 
 
-##
+##  ⬇️  Projeto pessoal que desenvolvo atualmente  ⬇️ 
+
+<h1 align="center"> Sistema Flask Completo </h1>
+
+<h2 align="center"> Era para ser apenas uma calculadora, mas está se tornando um sistema completo. </h2>
+
+## Descrição do Projeto:
+
+O projeto evoluiu de uma calaculadora que calculava a fórmula de pitágoras para um projeto completo envolendo **bootstrap, POO, Jinja2, Blueprints, Beautiful4, SQLAlquemy, API's e Clean Code** 
+
+## Evolução da Aplicação:
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102932581/214587474-441297ce-459c-4410-aef8-f413add8a024.gif" />
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102932581/227298178-c72daa93-e64e-4736-86ed-ec038f18e6c5.gif" />
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102932581/227304243-6e4bd416-de81-4c16-9419-f5440818c590.gif" />
+</div>
+
+
+
+## Links:
+
+**Calculadora com interface gráfica para o usuário:**
+
+Ainda em contrução, mas você pode acessara versão 1.0.0 pelo Docker.
+
+## Tecnologias Utilizadas:
+| <img src="https://user-images.githubusercontent.com/102932581/214597212-70086c3f-889e-44ba-bf62-806da9c86339.png" width=115><br><sub>Flask|  <img src="https://user-images.githubusercontent.com/102932581/214597761-9d28bf46-1658-414a-ae1d-559190d68040.png" width=115><br><sub>Render</sub>|  <img src="https://user-images.githubusercontent.com/102932581/177049046-6d72585c-c7f9-493f-82cd-3c85bf141a4f.png" width=115><br><sub>Visual Studio</sub>| <img src="https://user-images.githubusercontent.com/102932581/177049095-88a849aa-e9ee-4558-83f8-aaeeebb91cb2.png" width=115><br><sub>Git Bash</sub>|
+| :---: | :---: | :---: | :---: |
+
+| <img src="https://user-images.githubusercontent.com/102932581/214600569-3bcbea5b-db94-451b-97e2-01c74b106802.png" width=115><br><sub>Ubuntu|  <img src="https://user-images.githubusercontent.com/102932581/214600864-ccd2287e-4c89-450e-8f23-cb6c89d728c8.png" width=115><br><sub>HTML</sub>|  <img src="https://user-images.githubusercontent.com/102932581/215477766-88315365-f874-49b1-b5ec-8d9649f15982.png" width=115><br><sub>CSS</sub>| <img src="https://user-images.githubusercontent.com/102932581/215476558-25eb6386-1f43-4e8f-b44e-0fe3a0aecd8b.png" width=115><br><sub>Docker</sub>
+| :---: | :---: | :---: | :---: |
+
+## Docker
+
+Se prefirir, você pode baixar a imagem do aplicativo no DockerHub, e rodar um container na sua máquina:
+
+https://hub.docker.com/r/mateusbrandeburski/calcu_pitagoras
+
+## Desenvolvido por:
+| [<img src="https://user-images.githubusercontent.com/102932581/177051558-31499416-a0cf-4495-8ab7-409dabca514f.jpg" width=115><br><br><sub>Mateus Brandeburski Ramos</sub>](https://github.com/mateusbrandeburski) |
+| :---: |
+
 
   
