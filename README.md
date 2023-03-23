@@ -18,16 +18,32 @@ O projeto evoluiu de uma calaculadora que calculava a fórmula de pitágoras par
 
 ## Evolução da Aplicação:
 
+<h4 align="center"> ✅ No inicio era para ser apenas uma calculadora ✅ </h4>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/102932581/214587474-441297ce-459c-4410-aef8-f413add8a024.gif" />
 </div>
+<h4 align="center"> ✅ Depois com um novo visual e usando junja2 para templates dinâmicos e aproveitamento de código ✅ </h4>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/102932581/227298178-c72daa93-e64e-4736-86ed-ec038f18e6c5.gif" />
 </div>
 <div align="center">
+<img src="https://user-images.githubusercontent.com/102932581/227375898-4133c98e-36dc-4cc5-9254-00773d4fe8f8.png" />
+</div>
+<h4 align="center"> ✅ Esse foi o ínico do Sistema Flask Completo (blueprints, POO, jinja2, etc) ✅ </h4>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/102932581/227304243-6e4bd416-de81-4c16-9419-f5440818c590.gif" />
 </div>
-
+<h4 align="center"> ✅ Aqui o projeto já faz Scraping e trás listas iterativas ✅ </h4>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102932581/227373875-f5b3ca14-cd79-42a7-9e25-07ac06ae9477.gif" />
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102932581/227376765-6a0efd01-b7cb-4fcb-98a0-b3a03673f18b.png" />
+</div>
+<h4 align="center"> ✅ Scraping totalmente POO em que você passa os elementos pelos métodos, sem precisar alterar todo código ✅ </h4>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102932581/227376769-0506a1ff-8110-4406-a357-322904e8a87e.png" />
+</div>
 
 
 ## Links:
