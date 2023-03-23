@@ -8,7 +8,7 @@
 
 ##  ⬇️  Projeto pessoal que estou desenvolvendo atualmente  ⬇️ 
 
-<h1 align="center"> Sistema Flask Completo </h1>
+<h1 align="center"> Sistema Web Completo </h1>
 
 <h2 align="center"> Era para ser apenas uma calculadora, mas está se tornando um sistema completo. </h2>
 
