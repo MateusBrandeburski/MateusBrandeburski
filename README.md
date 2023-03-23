@@ -37,6 +37,8 @@ O projeto evoluiu de uma calaculadora que calculava a fórmula de pitágoras par
 <div align="center">
 <img src="https://user-images.githubusercontent.com/102932581/227373875-f5b3ca14-cd79-42a7-9e25-07ac06ae9477.gif" />
 </div>
+
+<h4 align="center"> ✅ Blueprint ✅ </h4>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/102932581/227376765-6a0efd01-b7cb-4fcb-98a0-b3a03673f18b.png" />
 </div>
