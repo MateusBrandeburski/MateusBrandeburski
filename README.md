@@ -51,7 +51,7 @@ O projeto evoluiu de uma calaculadora que calculava a fórmula de pitágoras par
 
 ## Links:
 
-**Calculadora com interface gráfica para o usuário:**
+**Acesse o deploy do projeto por esse link:**
 
 [Web Service - Mateus Brandeburski](https://web-service-4qoq.onrender.com/login)
 
