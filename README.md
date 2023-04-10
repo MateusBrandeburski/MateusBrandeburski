@@ -1,8 +1,4 @@
-### Olá, me chamo Mateus Brandeburski Ramos.
 
-
-- 🔭 Hoje trabalhando com desenvolvimento na Trovale Tecnologia.
-- 💬 Contate-me no e-mail: mateus.brandeburski92@gmail.com  
 
 
 
