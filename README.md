@@ -13,19 +13,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em
 - **Frontend**: Angular
 - **Outros**: Webscraping, Análise de Sentimentos, Transcrições OCR
 
-## Gráficos e Estatísticas
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbrandeburski&layout=compact&theme=default" alt="Linguagens mais utilizadas" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mateusbrandeburski&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
-    </td>
-  </tr>
-</table>
-
 
 > "A melhor maneira de prever o futuro é inventá-lo."  Alan Kay
 
