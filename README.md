@@ -2,7 +2,7 @@
 
 
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em diversas tecnologias e frameworks. Aqui você encontrará apenas minha atividade, pois todos meus projetos são privados. Entre em contato para conhecê-los.
+Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em diversas tecnologias e frameworks. Aqui você encontrará apenas minha atividade. Entre em contato para conhecer meus projetos.
 ## Acesse meu site: [Meu Site](https://mateusbrandeburski.com)
 ## Tecnologias e Ferramentas
 
